@@ -43,7 +43,7 @@ This project is a **clone** of Apple's iPhone 15 Pro website, meticulously recre
 ## ✨ **Features** ✨
 
 - **Interactive UI**: A faithful recreation of the iPhone 15 Pro page with seamless transitions and animations.
-- **3D Graphics**: Leveraging Three.js for realistic 3D models and effects.
+- **3D Graphics**: Three.js for realistic 3D models and effects.
 - **Smooth Animations**: GSAP provides smooth, professional-grade animations throughout the page.
 
 ---
@@ -52,12 +52,12 @@ This project is a **clone** of Apple's iPhone 15 Pro website, meticulously recre
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/apple-ui-15-pro.git
+   git clone https://github.com/zeeeeeyd/3d-UI-website.git
    ```
    
 2. **Navigate to the project directory**:
    ```bash
-   cd apple-ui-15-pro
+   cd 3d-UI-website
    ```
    
 3. **Install dependencies**:
