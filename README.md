@@ -98,5 +98,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries, feel free to reach out:
 
 - **Email**: saiadzeyd@example.com
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/zeyd-saiad-2221151a7/)
+- **LinkedIn**: [Zeyd SAIAD](https://www.linkedin.com/in/zeyd-saiad-2221151a7/)
 
